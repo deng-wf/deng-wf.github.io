@@ -36,11 +36,13 @@ I am looking for self-motivated PhD/Postdoc with a strong background in CS, EE, 
 **Selected Publications**
 (*Equal Contribution, #Corresponding Author)
 ------
-- Sparse Adversarial Video Attack Based on Dual-Branch Neural Network on Industrial Artificial Intelligence of Things
-Wenfeng Deng, Chunhua Yang, Keke Huang, Yishun Liu, Weihua Gui, Jun Luo
-_IEEE Transactions on Industrial Informatics_, 2024
+- Sparse Adversarial Video Attack Based on Dual-Branch Neural Network on Industrial Artificial Intelligence of Things[J]
+  Wenfeng Deng, Chunhua Yang, Keke Huang, Yishun Liu, Weihua Gui, Jun Luo.
+  _IEEE Transactions on Industrial Informatics_, 2024.
 
-- 
+- Detecting Intelligent Load Redistribution Attack Based on Power Load Pattern Learning in Cyber-Physical Power Systems[J]
+  Wenfeng Deng, Zili Xiang, Keke Huang, Jie Liu, Chunhua Yang, Weihua Gui.
+  _IEEE Transactions on Industrial Electronics_, 2023.
 
 **Markdown generator**
 
