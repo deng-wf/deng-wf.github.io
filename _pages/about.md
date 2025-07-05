@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Wenfeng Deng is an Assistant Researcher in the Pengcheng National Laboratory. He received his Ph.D. in Control Science and Engineering from Central South University in 2024, advised by Prof. Chunhua Yang, and his B.E. from Central South University in 2019. He also workes as a visiting student at the College of Computing and Data Science at Nanyang Technological University from 2023 to 2024, advised by Prof. Jun Luo.
+Wenfeng Deng is an Assistant Researcher in the Pengcheng National Laboratory. He received his Ph.D. in Control Science and Engineering from Central South University (https://www.csu.edu.cn/) in 2024, advised by Prof. Chunhua Yang, and his B.E. from Central South University in 2019. He also worked as a visiting student at the College of Computing and Data Science at Nanyang Technological University (https://www.ntu.edu.sg/) from 2023 to 2024, advised by Prof. Jun Luo.
 
 Research Interests
 ======
