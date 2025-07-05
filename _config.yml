@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wenfeng Deng (邓文锋)"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Wenfeng Deng"
 description              : &description "personal description"
