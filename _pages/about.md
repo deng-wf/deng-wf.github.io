@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Wenfeng Deng is an Assistant Researcher at the Pengcheng National Laboratory. He received his Ph.D. in Control Science and Engineering from Central South University (https://www.csu.edu.cn/) in 2024, advised by Prof. Chunhua Yang, and his B.E. from Central South University in 2019. He also worked as a visiting student at the College of Computing and Data Science at Nanyang Technological University (https://www.ntu.edu.sg/) from 2023 to 2024, advised by Prof. Jun Luo.
+Wenfeng Deng is an Assistant Researcher at the Pengcheng National Laboratory. He received his Ph.D. in Control Science and Engineering from Central South University (https://www.csu.edu.cn/) in 2024, advised by Prof. Chunhua Yang, and his B.E. in Automation from Central South University in 2019. He also worked as a visiting student at the College of Computing and Data Science at Nanyang Technological University (https://www.ntu.edu.sg/) from 2023 to 2024, advised by Prof. Jun Luo.
 
 **Academic Qualifications**
 ------
@@ -27,11 +27,12 @@ For those users that need more advanced functionality, the template also support
 Hiring
 ------
 I am looking for self-motivated PhD/Postdoc with a strong background in CS, EE, and Math. If you are highly creative and interested in joining my group, please do not hesitate to send me your CV and transcripts of grades by Email after reading this file.
+
 现面向广大学子招收: 2025级博士研究生1名 (鹏城实验室-清华大学联合培养)，欢迎对科研充满热情，拥有扎实编程功底、出色英文写作能力和优秀数学素养的同学加入课题组大家庭！
 
 **News**
 ------
-2025-07 
+[2025-07]  
 
 Selected Publications
 ------
