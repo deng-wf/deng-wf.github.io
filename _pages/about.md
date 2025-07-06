@@ -15,11 +15,11 @@ Wenfeng Deng is an Assistant Researcher at the Pengcheng National Laboratory, an
 - PhD, Central South University, China, 2019-2024 (advised by Prof. Chunhua Yang)
 - BSc, Central South University, China, 2015-2019 (advised by Prof. Keke Huang)
 
-Research Interests
+**Research Interests**
 ------
 His research interests include **Security & Privacy**, **Large-scale Language Models**, and **Trustworthy Reasoning**. With the widespread deployment of large-scale AI models in critical domains, concerns have emerged regarding their decision-making transparency, reasoning reliability, and overall system robustness. This research focuses on developing trustworthy reasoning mechanisms for large models, emphasizing interpretability, stability, and robustness in complex environments. In parallel, it explores system-level trustworthiness and security techniques for AI systems, including model security evaluation, attack detection and defense, and privacy-preserving mechanisms. The goal is to establish an end-to-end trustworthy AI framework—from model reasoning to system operation—supporting secure and reliable deployment in safety-critical applications.
 
-Hiring
+**Hiring**
 ------
 I am looking for self-motivated PhD/Postdoc with a strong background in CS, EE, and Math. If you are highly creative and interested in joining my group, please do not hesitate to send me your CV and transcripts of grades by Email after reading this file.
 
