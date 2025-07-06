@@ -112,13 +112,3 @@ Selected Publications
 - Blind Topology Identification for Smart Grid Based on Dictionary Learning[C].
   Zili Xiang, Keke Huang, **Wenfeng Deng#**, Chunhua Yang
   _In Proceedings of the 2019 IEEE Symposium Series on Computational Intelligence (SSCI)_, 2019.
-
-Professional bodies/affiliations
-
-- Member of the Chinese Association of Automation (CAA), since 2020.
-- Member of the Nonferrous Metals Society of China (NFSoC), since 2021.
-- 
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
