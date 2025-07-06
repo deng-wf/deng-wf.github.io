@@ -17,12 +17,7 @@ Wenfeng Deng is an Assistant Researcher at the Pengcheng National Laboratory. He
 
 Research Interests
 ------
-His research interests include **Security & Privacy**, **Large-scale Language Models**, and **Trustworthy Reasoning**. He is primarily devoted to in
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+His research interests include **Security & Privacy**, **Large-scale Language Models**, and **Trustworthy Reasoning**. With the widespread deployment of large-scale AI models in critical domains, concerns have emerged regarding their decision-making transparency, reasoning reliability, and overall system robustness. This research focuses on developing trustworthy reasoning mechanisms for large models, emphasizing interpretability, stability, and robustness in complex environments. In parallel, it explores system-level trustworthiness and security techniques for AI systems, including model security evaluation, attack detection and defense, and privacy-preserving mechanisms. The goal is to establish an end-to-end trustworthy AI framework—from model reasoning to system operation—supporting secure and reliable deployment in safety-critical applications.
 
 Hiring
 ------
@@ -118,10 +113,11 @@ Selected Publications
   Zili Xiang, Keke Huang, **Wenfeng Deng#**, Chunhua Yang
   _In Proceedings of the 2019 IEEE Symposium Series on Computational Intelligence (SSCI)_, 2019.
 
-**Markdown generator**
+Professional bodies/affiliations
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+- Member of the Chinese Association of Automation (CAA), since 2020.
+- Member of the Nonferrous Metals Society of China (NFSoC), since 2021.
+- 
 
 For more info
 ------
