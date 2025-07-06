@@ -25,11 +25,7 @@ I am looking for self-motivated PhD/Postdoc with a strong background in CS, EE, 
 
 现面向广大学子招收: 2025级博士研究生1名 (鹏城实验室-清华大学联合培养)，欢迎对科研充满热情，拥有扎实编程功底、出色英文写作能力和优秀数学素养的同学加入课题组大家庭！
 
-**News**
-------
-[2025-07]  
-
-Selected Publications
+**Selected Publications**
 ------
 [Journal]
 - Sparse Adversarial Video Attack Based on Dual-Branch Neural Network on Industrial Artificial Intelligence of Things[J].
