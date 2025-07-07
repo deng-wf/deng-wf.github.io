@@ -1,4 +1,4 @@
----
+****---
 permalink: /
 title: "Bio"
 author_profile: true
@@ -112,3 +112,17 @@ I am looking for self-motivated PhD/Postdoc with a strong background in CS, EE, 
 - Blind Topology Identification for Smart Grid Based on Dictionary Learning[C].
   Zili Xiang, Keke Huang, **Wenfeng Deng#**, Chunhua Yang
   _In Proceedings of the 2019 IEEE Symposium Series on Computational Intelligence (SSCI)_, 2019.
+
+**Group**
+------
+- PhD students:
+  
+Cunnian Gao (2022-; with South China University of Technology)
+Ronghui Liu (2022-; with South China University of Technology)
+Xin Dong (2023-; with Tsinghua University)
+Jiadong Lou (2023-; with Harbin Institute of Technology)
+Chihan Xu (2023-; with Tsinghua University)
+
+-Visiting students:
+
+Dinghan Liu (2024-; with The University of Hong Kong)
