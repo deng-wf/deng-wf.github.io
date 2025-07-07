@@ -29,9 +29,15 @@ I am looking for self-motivated PhD/Postdoc with a strong background in CS, EE, 
 
 现面向广大学子招收: 2025级博士研究生1名 (鹏城实验室-清华大学联合培养)、鹏城实验室访问学生2名，欢迎对科研充满热情，拥有扎实编程功底、出色英文写作能力和优秀数学素养的同学加入课题组大家庭！
 
+**News**
+------
+- [2025/07] Our paper “EMIS: Scaling Mathematical Reasoning with Evolutionary Instruction Synthesis” has been accepted at The 26th IEEE-China Conference on System Simulation Technology and its Applications (CCSSTA 2025).
+- [2025/07] Our paper “Evaluating Gradient Leakage Attacks in Federated Learning for Distributed Computing Systems” has been accepted at The 26th IEEE-China Conference on System Simulation Technology and its Applications (CCSSTA 2025).
+- [2025/03] We have organized the full-day “Industrial Intelligent System Forum” at The 8th Global Intelligent Industry Conference (GIIC 2025).
+
 **Selected Publications**
 ------
-[Journal]
+[Journal Articles]
 - Sparse Adversarial Video Attack Based on Dual-Branch Neural Network on Industrial Artificial Intelligence of Things[J].
   **Wenfeng Deng**, Chunhua Yang, Keke Huang#, Yishun Liu, Weihua Gui, Jun Luo.
   _IEEE Transactions on Industrial Informatics_, 2024.
@@ -88,7 +94,7 @@ I am looking for self-motivated PhD/Postdoc with a strong background in CS, EE, 
   **Wenfeng Deng**, Keke Huang#, Chunhua Yang, Hongqiu Zhu, Zhaofei Yu.
   _Applied Mathematics and Computation_, 2018.
 
-[Conference]
+[Conference Papers]
 - LIDS: Enhancing Industrial IoT Network Security through Lightweight Machine Learning-Powered Intrusion Detection System[C].
   Silin Peng, Yu Han, Nan Zhou, Xiaojun Liang, **Wenfeng Deng#**, Weihua Gui.
   _In Proceedings of the 2024 International Conference on Cyberspace Simulation and Evaluation_, 2024.
