@@ -27,7 +27,7 @@ His research interests include **Security & Privacy**, **Large-scale Language Mo
 ------
 I am looking for self-motivated PhD/Postdoc with a strong background in CS, EE, and Math. If you are highly creative and interested in joining my group, please do not hesitate to send me your CV and transcripts of grades by Email after reading this file.
 
-现面向广大学子招收: 2025级博士研究生1名 (鹏城实验室-清华大学联合培养)、鹏城实验室访问学生2名，欢迎对科研充满热情，拥有扎实编程功底、出色英文写作能力和优秀数学素养的同学加入课题组大家庭！
+现面向广大学子招收: 2026级博士研究生1名 (鹏城实验室-清华大学联合培养)、访问学生2名，欢迎对科研充满热情，拥有扎实编程功底、出色英文写作能力和优秀数学素养的同学加入课题组大家庭！
 
 **News**
 ------
