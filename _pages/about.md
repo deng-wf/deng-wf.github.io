@@ -119,6 +119,15 @@ I am looking for self-motivated PhD/Postdoc with a strong background in CS, EE, 
   Zili Xiang, Keke Huang, **Wenfeng Deng#**, Chunhua Yang
   _In Proceedings of the 2019 IEEE Symposium Series on Computational Intelligence (SSCI)_, 2019.
 
+**Reviewer**
+------
+- IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)
+- IEEE Transactions on Industrial Informatics (T-II)
+- IEEE Transactions on Industrial Electronics (T-IE)
+- IEEE Transactions on Automation Science and Engineering (T-ASE)
+- IEEE Transactions on Smart Grid (T-SG)
+- IEEE Transactions on Knowledge and Data Engineering (T-KDE) 
+
 **Group**
 ------
 - PhD students:
