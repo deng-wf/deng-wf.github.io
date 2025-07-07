@@ -143,6 +143,6 @@ Jiadong Lou (2023-; with Harbin Institute of Technology)
 Chihan Xu (2023-; with Tsinghua University)
 
 
--Visiting students:
+- Visiting students:
 
 Dinghan Liu (2024-; with The University of Hong Kong)
